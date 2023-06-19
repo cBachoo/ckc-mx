@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "alexandria")(type "KiCad")(uri "${KIPRJMOD}/libraries/AlexandriaLibrary/symbols/acheronSymbols.kicad_sym")(options "")(descr ""))
+)

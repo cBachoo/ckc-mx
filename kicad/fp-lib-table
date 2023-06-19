@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "alexandria_MX")(type "KiCad")(uri "${KIPRJMOD}/libraries/AlexandriaLibrary/footprints/acheron_MX_SolderMask.pretty")(options "")(descr ""))
+  (lib (name "alexandria_Connectors")(type "KiCad")(uri "${KIPRJMOD}/libraries/AlexandriaLibrary/footprints/acheron_Connectors.pretty")(options "")(descr ""))
+  (lib (name "alexandria_Components")(type "KiCad")(uri "${KIPRJMOD}/libraries/AlexandriaLibrary/footprints/acheron_Components.pretty")(options "")(descr ""))
+)
